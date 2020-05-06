@@ -26,7 +26,9 @@ Structure:
     |-- README.md
     |-- requirements.txt
     |-- setup.py
-    |-- tests.py
+    |-- tests/
+    |-- build
+    |-- dist
 
 
 

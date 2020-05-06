@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: example-pkg-IoC-Sunderland
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/IoC-Sunderland/Example-Package-Structure
+Author: Gav McClary
+Author-email: gavin.mcclary@sunderland.ac.uk
+License: UNKNOWN
+Description: Sample Project Structure
+        ========================
+        An example project structure.
+        
+        ## Installation
+        
+        Initialise a virtualenv:
+        
+            virtualenv .
+        
+        Install with [pip](https://pip.pypa.io/en/stable/):
+        
+            pip install -r requirements.txt
+        
+        Run app with:
+        
+            python3 helloworld.py
+        
+        Structure:
+        
+            helloworld/
+            |
+            |--.gitignore
+            |-- helloworld.py
+            |-- LICENSE
+            |-- README.md
+            |-- requirements.txt
+            |-- setup.py
+            |-- tests.py
+        
+        
+        
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
