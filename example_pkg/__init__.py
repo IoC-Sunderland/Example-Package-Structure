@@ -1,1 +1,1 @@
-import my_func
+import example
