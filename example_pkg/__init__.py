@@ -1,1 +1,1 @@
-import example
+from .example import my_func
