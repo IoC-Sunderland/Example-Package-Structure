@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: example-pkg-IoC-Sunderland
+Name: example-pkg-4-IoC-Sunderland
 Version: 0.0.1
 Summary: A small example package
 Home-page: https://github.com/IoC-Sunderland/Example-Package-Structure
@@ -34,7 +34,9 @@ Description: Sample Project Structure
             |-- README.md
             |-- requirements.txt
             |-- setup.py
-            |-- tests.py
+            |-- tests/
+            |-- build
+            |-- dist
         
         
         
