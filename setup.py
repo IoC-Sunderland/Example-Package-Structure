@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-4-IoC-Sunderland", # Replace with your own username
+    name="example-pkg-5-IoC-Sunderland", # Replace with your own username
     version="0.0.1",
     author="Gav McClary",
     author_email="gavin.mcclary@sunderland.ac.uk",
